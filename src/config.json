@@ -1,0 +1,16 @@
+
+{
+    "checkoutService": {
+        "apiPrefixUrl": "http://localhost",
+        "apiPort": "3001"
+    },
+    "categoriesService": {
+        "apiPrefixUrl": "http://localhost",
+        "apiPort": "7194"
+    }
+}
+
+
+
+
+    
